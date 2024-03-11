@@ -5,6 +5,10 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    fontFamily:{
+      roleFont:"Sriracha",
+      body:"Poppins"
+    }
   },
   plugins: [],
 }
